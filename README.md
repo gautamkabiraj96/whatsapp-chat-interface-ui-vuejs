@@ -1,2 +1,3 @@
 # whatsapp-chat-interface-ui-vuejs
-Created with CodeSandbox
+
+Learn how to build a WhatsApp chat user interface using Vue.js!
